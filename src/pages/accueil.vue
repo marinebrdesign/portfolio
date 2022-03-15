@@ -81,7 +81,7 @@ export default {
   data() {
     return {
       flickityOptions: {
-        initialIndex: 3,
+        initialIndex: 5,
         prevNextButtons: true,
         pageDots: false,
         wrapAround: true,
