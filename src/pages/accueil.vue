@@ -105,9 +105,6 @@ import MHeaderA from '../components/m-header_a'
 
 <style scoped>
 
-body, html {
-}
-
 .background {
   background-color: #151515;
   position: absolute;

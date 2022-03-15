@@ -6,6 +6,9 @@ body, html {
   scroll-behavior: smooth;
   z-index: -55;
   position: absolute;
+}
+
+body {
   overflow-x:hidden;
 }
 
