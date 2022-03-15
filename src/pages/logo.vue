@@ -173,7 +173,7 @@ margin: 0 auto;
 background-color: #151515;
 position: absolute;
 z-index: -2;
-height: 80vh;
+height: 85vh;
 width: 100%;
 }
 
@@ -199,7 +199,7 @@ display: grid;
 grid-gap: 16px;
 padding-top: 15vh;
 grid-template-rows: 530px;
-height: 80vh;
+height: 100vh;
 }
 
 .accueil span {
