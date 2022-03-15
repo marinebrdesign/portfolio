@@ -71,7 +71,7 @@
       <p>MON CV</p>
     </div>
     <div class="cv-download">
-      <a href="https://drive.google.com/file/d/1N-sjySFLXc148MwSG1x1Wa3dID3FdDkT/view?usp=sharing" target="_blank">
+      <a href="https://drive.google.com/file/d/1UTcQk2SkVtJhrA_UJtpkY_E-3R6xjisq/view?usp=sharing" target="_blank">
         <svg id="download" xmlns="http://www.w3.org/2000/svg" width="32.598" height="37.156" viewBox="0 0 32.598 37.156">
           <g id="download" transform="translate(1 1.006)">
             <g id="Groupe_16"  transform="translate(25.371 -15.412) rotate(90)">

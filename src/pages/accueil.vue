@@ -86,6 +86,7 @@ export default {
         pageDots: false,
         wrapAround: true,
         freeScroll: true,
+        draggable: false,
         arrowShape: {
           x0: 10,
           x1: 60, y1: 50,

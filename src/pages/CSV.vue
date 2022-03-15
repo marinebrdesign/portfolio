@@ -110,7 +110,7 @@
               <p>Le projet principal du troisième semestre de mon DUT MMI était collectif. Nous étions par groupes de trois et devions créer un nouveau site web pour une association : L’association CSV.
                 <br><br>L’association Coeuvatte-Suarcine-Vendeline, CSV, est une association qui a été créée en 2005 pour la découverte, l’information, la restauration et la sauvegarde du Patrimoine des villages situés dans le sud du territoire de Belfort. Son siège social est situé à Delle et compte un peu plus d’une centaine de membres.
                 <br><br>L’idée du projet est née à la suite d’une demande de l’association qui souhaitait changer son site internet devenu obsolète. L'objectif était de refaire entièrement le site de l’association afin d’attirer les plus jeunes et de se développer sur Internet.
-                <br><br>Le site finalisé a été mis à disposition de notre commanditaire. Ce dernier n’ayant aucune compétences/connaissances de développement web, aussi, pour qu’il puisse modifier/ajouter/supprimer des éléments, nous sommes passées par Wordpress. De plus, nous avons réalisé un manuel d'aide pour le commanditaire afin de lui permettre de façonner le site comme il le souhaite.
+                <br><br>Le site finalisé a été mis à disposition de notre commanditaire. Ce dernier n’ayant aucune compétences/connaissances en développement web, aussi, pour qu’il puisse modifier/ajouter/supprimer des éléments, nous sommes passées par Wordpress. De plus, nous avons réalisé un manuel d'aide pour le commanditaire afin de lui permettre de façonner le site comme il le souhaite.
               </p>
             </div>
           </div>
@@ -121,7 +121,7 @@
             <div class="texte-gauche">
               <h3>MON ROLE</h3>
               <p>
-                Dans ce projet, en tant que développeuse, j’ai dû intégrer entièrement le site en front-end avec du Vue JS  et pour le back-end j’ai utilisé Wordpress avec champs ACF afin que le commanditaire puisse changer des éléments depuis Wordpress. De plus, le site a été codé de façon à ce qu'il soit responsive.
+                Dans ce projet, en tant que développeuse, j’ai dû intégrer entièrement le site en front-end avec du Vue JS  et pour le back-end j’ai utilisé Wordpress avec des champs ACF afin que le commanditaire puisse changer des éléments depuis Wordpress. De plus, le site a été codé de façon à ce qu'il soit responsive.
                 <br><br>J'ai également réalisé quelques changements pour le design du site, par rapport à la maquette, car en raison du temps et de mes compétences certaines idées n'ont pas pu être réalisées.
                 <br><br>Ce projet m’a permis d’avoir une expérience avec de réels clients qui ont des exigences et des attentes. Cela n’a pas toujours été facile, mais avec ce projet, je pense avoir acquis beaucoup d’expérience pour le futur dans le milieu professionnel. Mon groupe et moi-même sommes plutôt fiers de ce projet.
               </p>
